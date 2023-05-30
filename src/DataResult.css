@@ -1,0 +1,20 @@
+
+
+.line {
+    margin-right: 10px;
+    min-height: 70px;
+    min-width: 5px;
+    background-color: #489788;
+}
+
+.title{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+.button{
+    background-color: white;
+    border:  white;
+    
+}
